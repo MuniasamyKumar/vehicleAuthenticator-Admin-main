@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440104855821",
+    "project_id": "vehicle-auth-admin-1fc50",
+    "storage_bucket": "vehicle-auth-admin-1fc50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440104855821:android:b42c58cb145a770a042844",
+        "android_client_info": {
+          "package_name": "com.example.sample_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Cz73bm9xYFYCJdukRfSTFtHty8iqYqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
